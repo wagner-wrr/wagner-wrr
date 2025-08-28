@@ -25,5 +25,5 @@ Atuo na área de tecnologia há mais de duas décadas, sempre envolvido com manu
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:wagner.wrr@gmail.com)
 
 ## 📊 Estatísticas do GitHub
-![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=wagner-wrr&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=wagner-wrr&theme=tshow_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark)
 
