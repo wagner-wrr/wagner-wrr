@@ -20,10 +20,7 @@ Atuo na área de tecnologia há mais de duas décadas, sempre envolvido com manu
 
 ## Em aprendizagem
 ### Linguagem de Programação
-<div>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-</div>&nbsp;&nbsp;
-
   
 ### Ferramentas
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
