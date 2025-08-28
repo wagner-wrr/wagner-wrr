@@ -11,12 +11,20 @@ Atuo na área de tecnologia há mais de duas décadas, sempre envolvido com manu
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-<div>
+ 
+ &nbsp;
+ &nbsp;
+
+
   
-</div>
+
 ## Em aprendizagem
 ### Linguagem de Programação
+<div>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</div>&nbsp;&nbsp;
+
+  
 ### Ferramentas
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
