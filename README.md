@@ -18,7 +18,7 @@ Atuo na área de tecnologia há mais de duas décadas, sempre envolvido com manu
 
   
 
-## Em aprendizagem
+## Aprendendo
 ### Linguagem de Programação
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
