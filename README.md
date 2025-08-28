@@ -1,6 +1,6 @@
 # Wagner Rodrigues Ramos
 
-<img src="[https://github.com/user-attachments/assets/712e0228-6945-4bff-a4f6-d5fb2e129634](https://github.com/user-attachments/assets/c8e525e4-290b-4588-a837-92d6d4fc81fa)" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/user-attachments/assets/c8e525e4-290b-4588-a837-92d6d4fc81fa" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 Atuo na área de tecnologia há mais de duas décadas, sempre envolvido com manutenção de hardware. No entanto, a paixão pela programação sempre esteve presente em minha trajetória. Hoje, decidi transformar esse interesse em ação e encarar o desafio de aprender Python, abrindo novos caminhos na minha jornada profissional.
 
