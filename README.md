@@ -23,3 +23,7 @@ Atuo na área de tecnologia há mais de duas décadas, sempre envolvido com manu
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@wagner.wrr/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-234ea94b?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5573981717714)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:wagner.wrr@gmail.com)
+
+## 📊 Estatísticas do GitHub
+![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=wagner-wrr&show_icons=true&theme=radical)
+
