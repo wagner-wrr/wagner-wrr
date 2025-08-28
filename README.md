@@ -11,7 +11,9 @@ Atuo na área de tecnologia há mais de duas décadas, sempre envolvido com manu
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-
+<div>
+  
+</div>
 ## Em aprendizagem
 ### Linguagem de Programação
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
