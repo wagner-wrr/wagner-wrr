@@ -29,4 +29,7 @@ Atuo na área de tecnologia há mais de duas décadas, sempre envolvido com manu
 ## 📊 Estatísticas do GitHub
 ![wagner-wrr's GitHub stats](https://github-readme-stats.vercel.app/api?username=wagner-wrr&show_icons=true&theme=dark)
 
+## **Contribuições**
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wagner-wrr&repo=dio-lab-open-source&bg_color=122&border_color=30A3DC&show_icons=true&icon_color=50A5DC&title_color=E94D5F&text_color=EEB)](https://github.com/wagner-wrr/dio-lab-open-source)
+
 
